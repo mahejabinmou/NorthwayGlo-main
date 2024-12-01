@@ -1,0 +1,4 @@
+.custom-bullet li::marker {
+  color: #f6941e; /* Apply your desired bullet color */
+  padding: 20px;
+}

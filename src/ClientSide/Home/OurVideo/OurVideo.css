@@ -1,0 +1,10 @@
+/* OurVideo.css */
+
+.ourVideoSlider .slick-slide {
+  scale: 0.85;
+}
+
+.ourVideoSlider .slick-active.slick-center {
+  scale: 1;
+  transition: all 0.3s ease-in-out;
+}

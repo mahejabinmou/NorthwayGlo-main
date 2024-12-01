@@ -1,0 +1,118 @@
+/* AboutOurMission.css */
+/* .fixed-navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background: transparent;
+} */
+
+/* .slick-slide {
+  transition: transform 0.5s ease;
+}
+
+.slick-slide img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.slick-prev,
+.slick-next {
+  display: none !important;
+}
+
+.slick-dots li button:before {
+  font-family: "slick";
+  font-size: 13px;
+  line-height: 20px;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 15px;
+  height: 15px;
+  content: "•";
+  text-align: center;
+  opacity: 100;
+  color: #d9d9d9;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: 100;
+  color: #8bd833;
+} */
+
+/* .filter-orange {
+  filter: invert(66%) sepia(96%) saturate(580%) hue-rotate(346deg)
+    brightness(103%) contrast(101%);
+}
+
+.filter-dark-gray {
+  filter: invert(8%) sepia(10%) saturate(0%) hue-rotate(180deg) brightness(92%)
+    contrast(90%);
+} */
+/* AboutOurMission.css */
+.fixed-navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background: transparent;
+}
+
+.slider-container {
+  /* margin-top: 80px; */
+  /* Adjust this based on the height of your fixed navbar */
+}
+
+.slick-slide {
+  transition: transform 0.5s ease;
+}
+
+.slick-slide img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.slick-prev,
+.slick-next {
+  display: none !important;
+}
+
+.slick-dots li button:before {
+  font-family: "slick";
+  font-size: 13px;
+  line-height: 20px;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 15px;
+  height: 15px;
+  content: "•";
+  text-align: center;
+  opacity: 100;
+  color: #d9d9d9;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: 100;
+  color: #8bd833;
+}
+
+/* font-family: 'slick';
+font-size: 6px;
+line-height: 20px;
+position: absolute;
+top: -40px;
+left: 0;
+width: 20px;
+height: 20px;
+content: '•';
+text-align: center;
+opacity: .25;
+color: black;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale; */

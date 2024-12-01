@@ -1,0 +1,3 @@
+.custom-bullet li:first-child::marker {
+  color: #f6941e; /* Apply custom color to the first bullet */
+}
